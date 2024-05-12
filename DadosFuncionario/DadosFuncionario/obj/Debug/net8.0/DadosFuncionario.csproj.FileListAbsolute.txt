@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\DadosFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\DadosFuncionario.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\DadosFuncionario.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\DadosFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\bin\Debug\net8.0\DadosFuncionario.exe
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\bin\Debug\net8.0\DadosFuncionario.deps.json
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\bin\Debug\net8.0\DadosFuncionario.runtimeconfig.json
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\bin\Debug\net8.0\DadosFuncionario.dll
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\bin\Debug\net8.0\DadosFuncionario.pdb
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\DadosFuncionario.dll
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\refint\DadosFuncionario.dll
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\DadosFuncionario.pdb
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\DadosFuncionario.genruntimeconfig.cache
+C:\Users\ACER\source\repos\DadosFuncionario\DadosFuncionario\obj\Debug\net8.0\ref\DadosFuncionario.dll
