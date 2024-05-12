@@ -10,6 +10,6 @@ Programa de controle de funcionários.
 <hr>
 
 # UML usada para a criação do projeto
-
+<img src="DadosFuncionáriosUML.jpg">
 
 
